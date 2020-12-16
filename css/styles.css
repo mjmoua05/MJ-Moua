@@ -9,11 +9,11 @@ h1 {
   margin: 0 auto;
 }
 h2{
-  font-family: 'Pacifico', cursive;
+  font-family: 'Abril Fatface', cursive;
   margin: 0 auto;
 }
 h3 {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Bebas Neue', cursive;
   margin: 0 auto;
 }
 .top-container {
@@ -36,8 +36,9 @@ p {
   width: 100px;*/
 }
 
-.subtitle {
-  text-decoration: underline;
+.sub-title {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 25px;
 }
 
 .top-cloud {
